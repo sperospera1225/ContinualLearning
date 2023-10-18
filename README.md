@@ -1,6 +1,6 @@
 # Distributed Classification Model of Streaming Tweets based on Dynamic Model Update
 
-M. -S. Kim and H. -Y. Kwon, "Distributed Classification Model of Streaming Tweets based on Dynamic Model Update," 2022 IEEE International Conference on Big Data and Smart Computing (BigComp), 2022, pp. 47-51, doi: 10.1109/BigComp54360.2022.00019.
+This repository contains all code for our paper "Distributed Classification Model of Streaming Tweets based on Dynamic Model Update".
 
 ![image](https://user-images.githubusercontent.com/67995592/191178037-4ec5f14d-e8f7-4485-b16f-e8e8ec6c6215.png)
 ![image](https://user-images.githubusercontent.com/67995592/191178185-eab7dbf1-2bfb-4b5f-bc99-1e6a460ede9f.png)
